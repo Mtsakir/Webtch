@@ -55,7 +55,7 @@ def usage():
 
         Additions:
             If you want to use the default wordlist, just type
-                            python3 webtchh.py -u website -d    
+                            python3 webtch.py -u website -d    
     
     
         \033[0m
