@@ -1,7 +1,7 @@
-Hello everyone :) This is a classic web path scanning tool .Those who use the tool, please specify the problems they encounter while using it. 
-I will try to fix these errors in future versions and make it smoother.
+Hello everyone :) This is a classic web path scanning tool. Those who use the tool, please specify and mention the issues they encounter while using it.
+I will try to fix these errors in future versions and make it smoother. 
 
-
+                                                                            
 ----HOW TO USE-----
 python3 webtchh.py -u website -w wordlist 
     Tips:
@@ -12,7 +12,7 @@ python3 webtchh.py -u website -w wordlist
                     e.g)
                            python3 webtch.py -d -u http://ip_or_sitename
 
-
+                                        
 ------------WARNING------------
 This tool is developed for educational purposes. 
 You have your own responsibilities and you are liable to any damage or violation of laws by this tool.
